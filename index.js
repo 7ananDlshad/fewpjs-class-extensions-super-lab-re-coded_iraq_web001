@@ -30,5 +30,7 @@ class Evergreen extends Tree{
 
 let tree = new Tree("Maple")
 
-let deciduous = new Deciduous('Oak', 'Professor' )
-deciduous.
+let oak = new Deciduous( 'Oak', 'Professor' )
+oak.definition()
+
+let 
