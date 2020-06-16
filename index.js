@@ -33,4 +33,5 @@ let tree = new Tree("Maple")
 let oak = new Deciduous( 'Oak', 'Professor' )
 oak.definition()
 
-let 
+let fir = new Evergreen( 'Fir', 'Douglas' )
+fir.definition()
