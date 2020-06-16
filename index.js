@@ -24,6 +24,10 @@ class Evergreen extends Tree{
      this.name = name
    }
       static definition(){
-     return `${super.definition()} Deciduous trees shed their leaves annually.`
+     return `${super.definition()} Evergreens keep their leaves all year round.`
    }
 }
+
+let tree = new Tree("Maple")
+
+let deciduous = new Deciduous()
