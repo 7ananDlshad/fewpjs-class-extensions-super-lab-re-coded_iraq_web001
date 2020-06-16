@@ -18,4 +18,6 @@ class Deciduous extends Tree{
    }
 }
 
-class 
+class Evergreen extends Tree{
+  
+}
